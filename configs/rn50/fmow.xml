@@ -1,0 +1,5 @@
+<config>
+    <model_ema_beta>0.999</model_ema_beta>
+    <learning_rate>0.0001</learning_rate>
+    <alpha>1</alpha>
+</config>
