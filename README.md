@@ -42,3 +42,6 @@ Below are instructions for running BayesTTA on both CT-TTA and Cross-Domain benc
 Run BayesTTA on fMoW, Yearbook, RMNIST, and CIFAR10-Light using the ResNet50 model:
 
 bash ./scripts/run_cttta_benchmark_rn50.sh
+
+**CLIP-ViT-B/16**  
+bash ./scripts/run_cttta_benchmark_vit.sh
